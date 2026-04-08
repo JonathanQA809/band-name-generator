@@ -52,6 +52,17 @@ band-name-generator/
 |-- .gitignore
 ```
 
+## What I Learned
+
+Through this project, I practiced:
+- Getting user input with `input()`
+- Saving values in variables
+- Displaying output clearly with `print()`
+- Building a simple dynamic message with an f-string
+- Running a Python script from the terminal
+
+This project also helped me get more comfortable with creating and pushing a small Python project to GitHub.
+
 ## Author
 
 Jonathan Tejeda
